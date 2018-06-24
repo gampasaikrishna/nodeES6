@@ -1,0 +1,12 @@
+Node JS Software
+Work bench Version 1.24.1 or more  VSC WorkSpace
+
+Additaila setup 
+dependencies
+npm install -g typescript
+npm install -g karma-cli
+
+
+About:
+->rest api
+->mocha,chai,karma test cases 
